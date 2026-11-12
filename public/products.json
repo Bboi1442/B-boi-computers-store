@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ig-handle",
+    "name": "Instagram Handle Enquiry",
+    "category": "Social media handles",
+    "description": "Username research and permitted handle-transfer enquiries.",
+    "priceKobo": null,
+    "active": true
+  },
+  {
+    "id": "tiktok-handle",
+    "name": "TikTok Handle Enquiry",
+    "category": "Social media handles",
+    "description": "Username availability research and compliant transfer options.",
+    "priceKobo": null,
+    "active": true
+  },
+  {
+    "id": "fb-x-handle",
+    "name": "Facebook / X Handle Enquiry",
+    "category": "Social media handles",
+    "description": "Social username research for a personal brand or business.",
+    "priceKobo": null,
+    "active": true
+  },
+  {
+    "id": "uk-number",
+    "name": "United Kingdom Number",
+    "category": "Foreign numbers",
+    "description": "Legitimate UK numbers for business calls and communications.",
+    "priceKobo": null,
+    "active": true
+  },
+  {
+    "id": "us-number",
+    "name": "United States Number",
+    "category": "Foreign numbers",
+    "description": "Eligible US number options, coverage and service terms.",
+    "priceKobo": null,
+    "active": true
+  },
+  {
+    "id": "intl-number",
+    "name": "Other International Numbers",
+    "category": "Foreign numbers",
+    "description": "Tell us the country and intended communication use.",
+    "priceKobo": null,
+    "active": true
+  },
+  {
+    "id": "brand-consult",
+    "name": "Brand Identity Consultation",
+    "category": "Business solutions",
+    "description": "Planning a consistent online identity for your business.",
+    "priceKobo": null,
+    "active": true
+  },
+  {
+    "id": "business-comms",
+    "name": "Business Communication Setup",
+    "category": "Business solutions",
+    "description": "International calling and customer contact options.",
+    "priceKobo": null,
+    "active": true
+  }
+]
