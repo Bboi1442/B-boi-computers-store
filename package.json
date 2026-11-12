@@ -1,0 +1,16 @@
+{
+  "name": "b-boi-computers-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "B BOI COMPUTER'S online store with Paystack checkout",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
